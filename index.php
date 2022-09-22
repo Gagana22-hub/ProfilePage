@@ -11,7 +11,7 @@
  <nav>
   <ul>
    <li><a href="https://FresherProfiles.com">Profiles</a></li>
-   <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
+   <li><a href="https://fresherprofiles.com/web/student">Profile Builder!!</a></li>
   </ul>
  </nav>
 </header>
