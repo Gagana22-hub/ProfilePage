@@ -10,7 +10,7 @@
 <header>
  <nav>
   <ul>
-   <li><a href="https://FresherProfiles.com">profiles</a></li>
+   <li><a href="https://FresherProfiles.com">Profiles</a></li>
    <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
   </ul>
  </nav>
@@ -92,11 +92,11 @@ echo ' <div id="reg-head-fail" class="headrg">Login Failed!, Invalid Credentials
 </table>
 <div id="st"><input name="submit" type="submit" value="Login" id="st-btn"/></div>
 </form>
-<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 FresherProfiles.com</div>
+<div id="reg-bottom" class="btmrg">Copyright &copy; 2022 Profiles.com</div>
 </div>
 </div>
 </div>
 </div>
-<div id="footer"><p> Copyright &copy; 2022 FresherProfiles.com </p></div>
+<div id="footer"><p> Copyright &copy; 2022 Profiles.com </p></div>
 </body>
 </html>
